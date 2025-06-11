@@ -1,0 +1,1 @@
+My journey on learning how to program
