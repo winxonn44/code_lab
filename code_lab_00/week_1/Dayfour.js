@@ -40,3 +40,20 @@ function cube(a) {
 };
 
 console.log(cube(test02))
+
+function makeGreeting(name, age) {
+    console.log("Hey, " + name + " you are " + age + " years old!")
+};
+
+makeGreeting("Winxon", 18);
+
+function evenSet(num) {
+    for (let j = 1; j <= num; j++) {
+        if (j % 2 === 0) {
+            console.log(j)
+        }
+    }
+
+    };
+
+evenSet(50);
